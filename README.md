@@ -48,7 +48,6 @@ To set up the project, follow these steps:
    sudo apt install nodejs -y
 
 ## Check NodeJS and npm versions:
-    ```bash
     nodejs -v
     npm -v
 
