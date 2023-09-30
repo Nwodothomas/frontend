@@ -82,6 +82,7 @@ package.json
 
 
 babel.config.js
+
 ```javascript
 module.exports = {
   presets: [
@@ -97,6 +98,7 @@ module.exports = {
 };
 
 .eslintrc.js
+
 ```javascript
 module.exports = {
   env: {
